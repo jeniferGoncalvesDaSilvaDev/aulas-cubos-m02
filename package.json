@@ -1,0 +1,24 @@
+{
+  "name": "meu-primeiro-servidor",
+  "version": "0.0.1",
+  "description": "esse projeto foi desenvolvido na aula de primeiro servidor do curso da cubos academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeniferGoncalvesDaSilvaDev/aulas-cubos-m02.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "author": "Jenifer Gonçalves da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeniferGoncalvesDaSilvaDev/aulas-cubos-m02/issues"
+  },
+  "homepage": "https://github.com/jeniferGoncalvesDaSilvaDev/aulas-cubos-m02#readme"
+}
