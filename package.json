@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jeniferGoncalvesDaSilvaDev/aulas-cubos-m02/issues"
   },
-  "homepage": "https://github.com/jeniferGoncalvesDaSilvaDev/aulas-cubos-m02#readme"
+  "homepage": "https://github.com/jeniferGoncalvesDaSilvaDev/aulas-cubos-m02#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
